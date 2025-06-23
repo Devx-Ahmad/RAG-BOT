@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+python-docx
+sentence-transformers
+faiss-cpu
+httpx
+groq
+python-dotenv
+markdown
+bleach
